@@ -1369,7 +1369,7 @@
 
 #rightbar{
     width:35px;
-    height:662px;
+    height:100%;
     background:#000;
     right: 0;
     position:fixed;
